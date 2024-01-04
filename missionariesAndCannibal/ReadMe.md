@@ -51,11 +51,11 @@ where, h(n) is $\frac{M_{n} + C_{n}}{boat\ capacity}$
 
 For 15 cannibals and 15 missionaries:
 
-![](./image2.png){width="6.5in" height="3.4027777777777777in"}
+![](./image2.png)
 
 For 20 cannibals and 20 missionaries:
 
-![](./image1.png){width="6.5in" height="4.069444444444445in"}
+![](./image1.png)
 
 **Bugs/Deficiencies:**
 
