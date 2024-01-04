@@ -60,7 +60,7 @@ Implementation Explanation:
 
 Feasible Problem:
 
-![](./image1.png){width="6.5in" height="5.097222222222222in"}
+![](./image1.png)
 
 **Bugs/Deficiencies:**
 
