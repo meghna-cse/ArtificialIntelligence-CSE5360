@@ -18,7 +18,7 @@ The goal state has been modified as below:
 
 Additionally, the links between locations were modified as per the below:
 
-![](image1.jpeg)
+![](image1.JPG)
 
 **Bugs/Deficiencies:**
 
